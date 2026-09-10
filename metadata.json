@@ -1,0 +1,6 @@
+{
+  "name": "GhostMind",
+  "description": "AI copilot for security teams that turns raw reconnaissance data into a prioritized, human-reviewed attack plan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
